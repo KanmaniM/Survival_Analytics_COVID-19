@@ -12,6 +12,6 @@ The python scripts provided in this repository are result of Survival Analytics 
  
   In all the scripts Bar Graphs and Plots are also included wherever necessary.
   
-In these scripts survival probabity is calculated based on Kaplan-Meier analysis and Nelson Aalen analysis, which are used to  give an average view of the population. Source of data is api provided by govermented which is updated in daily basis.
+In these scripts survival probabity is calculated based on Kaplan-Meier analysis and Nelson Aalen analysis, which are used to  give an average view of the population. Source of data is api provided by govermented which is updated on a daily basis.
 
 
